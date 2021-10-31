@@ -1,0 +1,27 @@
+
+.navbar {
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: space-between;
+    background: rgb(14, 112, 223);
+    color: white;
+    font-family: Helvetica;
+    font-weight: 300;
+
+}
+.screenRightDise{
+    display: flex;
+    margin-lift:65%;
+}
+.navbar__title {
+ /*   margin-right: auto;*/
+    font-size: 150%;
+    padding: 12px 16px;
+}
+
+.navbar__item {
+    padding: 16px 16px;
+    cursor: pointer;
+    vertical-align: middle;
+}
